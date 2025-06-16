@@ -1,11 +1,11 @@
 # 路上観察学・写真ギャラリー「落とし物ギャラリー」
 
-![メイン画像](https://via.placeholder.com/1200x630.png?text=Lost%20and%20Found%20Gallery)  
+
 *(こちらの画像はプレースホルダーです。サイトのスクリーンショットなどに差し替えてご活用ください。)*
 
 **街で見つけた、名もなき忘れ物たち。** これは、日常の風景にひっそりと佇む「落とし物」をテーマにした、ささやかなオンライン写真ギャラリーです。
 
-[**ギャラリーページへ（デプロイ先のURLをここに設定）**](https://example.com)
+
 
 ---
 
@@ -40,9 +40,7 @@
 
 * **`HTML5`**: ウェブページの基本的な骨格
 * **`CSS3`**: スタイリングとレイアウト
-* **`JavaScript`**: 動的な要素の制御
-* **[Google Fonts](https://fonts.google.com/)**: `Noto Sans JP`フォントの読み込み
-* **[AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)**: スクロールアニメーションライブラリ
+
 
 ## 🛠️ セットアップ (Setup)
 
